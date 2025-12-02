@@ -1,3 +1,5 @@
 genome Pf3D7
+organism Plasmodium falciparum
+description Plasmodium falciparum 3D7 (v3)
 twoBitPath Pf3D7/genome.2bit
 trackDb Pf3D7/trackDb.txt
