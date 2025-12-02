@@ -1,0 +1,7 @@
+
+track annotation
+type bigBed 6
+bigDataUrl features.bb
+shortLabel Pfalciparum Features
+longLabel Exons/CDS from PlasmoDB GFF
+visibility pack

@@ -1,0 +1,5 @@
+hub Pf3D7Hub
+shortLabel Pf3D7 custom hub
+longLabel Custom Pf3D7 genome with v3 naming
+genomesFile genomes.txt
+email gala.ramonzamorano@ru.nl
